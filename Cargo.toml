@@ -1,0 +1,9 @@
+[package]
+name = "a2a-signal-chain"
+version = "0.1.0"
+edition = "2021"
+description = "A2A-native signal chain for Plato room communication"
+
+[lib]
+name = "a2a_signal_chain"
+path = "src/lib.rs"
